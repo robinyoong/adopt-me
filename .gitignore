@@ -13,3 +13,10 @@
 **/.history
 
 # End of https://www.gitignore.io/api/visualstudiocode
+
+node_modules/
+.DS_Store
+.cache/
+dist
+coverage/
+.env
