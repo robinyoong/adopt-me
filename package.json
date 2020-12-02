@@ -1,0 +1,24 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinyoong/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinyoong/adopt-me/issues"
+  },
+  "homepage": "https://github.com/robinyoong/adopt-me#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
